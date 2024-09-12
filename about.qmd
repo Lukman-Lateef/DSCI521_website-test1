@@ -3,3 +3,5 @@ title: "About"
 ---
 
 About this site for Lukman
+
+Quarto create project DSCI521
